@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : "Paul Oldham"
 description              : "Not really as amazing as I would like, problem is commit to master"
 url                      : "https://poldham.github.io"
-baseurl                  : "/owa/"
+baseurl                  : "/owa"
 repository               : "poldham/owa"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)

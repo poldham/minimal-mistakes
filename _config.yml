@@ -11,9 +11,9 @@ title                    : "One World Analytics"
 title_separator          : "-"
 name                     : "Paul Oldham"
 description              : "Not really as amazing as I would like, problem is commit to master"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+url                      : "https://poldham.github.io"
+baseurl                  : "/owa_test"
+repository               : "poldham/owa_test"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200

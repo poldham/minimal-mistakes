@@ -12,8 +12,8 @@ title_separator          : "-"
 name                     : "Paul Oldham"
 description              : "Not really as amazing as I would like, problem is commit to master"
 url                      : "https://poldham.github.io"
-baseurl                  : "/owa_test/"
-repository               : "poldham/owa_test"
+baseurl                  : "/owa/"
+repository               : "poldham/owa"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : @junglepaul
+  username               : junglepaul
 facebook:
   username               :
   app_id                 :

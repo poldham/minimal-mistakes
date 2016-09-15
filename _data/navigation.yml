@@ -4,7 +4,7 @@ main:
    url: /pages/about/
 
   - title: "Publications"
-    url: /sample-page/
+    url: /pages/sample-page/
   
   - title: "Contact"
-    url: /contact/
+    url: /pages/contact/

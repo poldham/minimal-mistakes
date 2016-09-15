@@ -1,5 +1,5 @@
 ---
-permalink: /about.md
+permalink: /about/
 layout: single
 title: "About One World Analytics"
 excerpt: "One World Analytics is not just another analytics company."

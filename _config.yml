@@ -77,10 +77,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Paul Oldham"
   avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "I am an anthropologist."
+  location         : "UK"
   email            :
   uri              :
   bitbucket        :
@@ -110,7 +110,7 @@ author:
 # Reading Files
 include:
   - .htaccess
-  - _pages
+  - ["_pages"]
   - _posts
 exclude:
   - "*.sublime-project"

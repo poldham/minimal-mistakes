@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en"
+locale                   : "en-GB"
 title                    : "One World Analytics"
 title_separator          : "-"
 name                     : "Paul Oldham"

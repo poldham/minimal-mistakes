@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: home
 excerpt: "The One World Analytics Homepage"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
@@ -8,8 +8,3 @@ image:
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---  
 
-
-
-
-
-This is the home page. 

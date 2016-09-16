@@ -1,10 +1,8 @@
 ---
-layout: home
+layout: default
 excerpt: "The One World Analytics Homepage"
-tags: [Jekyll, theme, responsive, blog, template]
+tags: [patent analytics, bibliometrics, scientometrics, biodiversity, nagoya protocol]
 image:
   feature: unsplash-gallery-image-2-th.jpg
-  credit: OWA
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---  
 

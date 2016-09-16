@@ -1,4 +1,5 @@
 ---
+permalink: /index/
 layout: default
 excerpt: "The One World Analytics Homepage"
 tags: [patent analytics, bibliometrics, scientometrics, biodiversity, nagoya protocol]

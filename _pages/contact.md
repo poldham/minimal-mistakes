@@ -3,8 +3,8 @@ layout: single
 title: "This is our contact page"
 permalink: /contact/
 excerpt: "One World Analytics Contacts"
-image:
-  feature: unsplash-gallery-image-2-th.jpgßß
+header:
+  image: unsplash-gallery-image-2-th.jpgßß
 ---
 
 Contact details go here

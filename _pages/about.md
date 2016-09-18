@@ -9,7 +9,7 @@ header:
   caption: "Research organisations publishing on synthetic biology in 2010: [**Paul Oldham, Stephen Hall and Geoff Burton in PLOS ONE**](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0034368)"
 ---
 
-One World Analytics was founded in 2013 as a company that uses innovative
+One World Analytics was founded in 2013 as a research company that uses innovative
 approaches to the analysis of global social and environmental issues. We use a
 combination of text mining, statistics, geographic mapping and network analysis to make the
 invisible and the neglected visible.

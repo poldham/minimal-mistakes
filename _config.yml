@@ -9,8 +9,8 @@
 locale                   : "en-GB"
 title                    : "One World Analytics"
 title_separator          : "-"
-name                     : "Paul Oldham"
-description              : "Not really as amazing as I would like ye, problem is images"
+name                     : "One World Analytics"
+description              : "One World Analytics specialises in the innovative analysis of global social and environmental issues"
 url                      : "https://poldham.github.io"
 baseurl                  : "/owa"
 repository               : "poldham/owa"
@@ -81,7 +81,7 @@ author:
   avatar           : "bio-photo.jpg"
   bio              : "I am an anthropologist."
   location         : "UK"
-  email            :
+  email            : "poldham@oneworldanalytics.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -89,18 +89,18 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "poldham"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "paul-oldham-8762b1b1"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : junglepaul
   vine             :
   weibo            :
   xing             :

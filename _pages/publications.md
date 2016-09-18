@@ -95,3 +95,54 @@ Agriculture/Food and Agriculture Organization. ISBN 978-92-5-107925-6. DOI:
 Landscape’. PLOS One, DOI:
 10.1371/journal.pone.0034368](http://journals.plos.org/plosone/article?id=10.
 1371/journal.pone.0034368)
+
+Africa Reports
+
+In late 2013 we published a series of country studied on access to genetic
+resources and benefit-sharing in Africa commissioned by [The ABS
+Initiative](http://www.abs-initiative.info). Each country study follows the same
+format and reviews patent activity for the specific country involving genetic
+resources and traditional knowledge. You can download the individual reports
+below. 
+
+Oldham P, Hall S and Barnes C (2013) Biodiversity in the Patent System: Cameroon. A
+country study of genetic resources and traditional knowledge in the patent
+system of relevance to Cameroon. Deutsche Gesellschaft für Internationale
+Zusammenarbeit (GIZ), UNEP and others.  DOI: 10.13140/RG.2.1.3124.7767.
+Available from the ABS Initiative at: http://tinyurl.com/zqloo7t
+
+Oldham P, Hall S and Barnes C (2013) Biodiversity in the Patent System: Kenya. A
+country study of genetic resources and traditional knowledge in the patent
+system of relevance to Kenya. Deutsche Gesellschaft für Internationale
+Zusammenarbeit (GIZ), UNEP and others. DOI: 10.13140/RG.2.1.2600.4889. Available
+from the ABS Initiative at: http://tinyurl.com/zexsa96
+
+Oldham P, Hall S and Barnes C (2013) Biodiversity in the Patent System: Madagascar. A
+country study of genetic resources and traditional knowledge in the patent
+system of relevance to Madagascar. Deutsche Gesellschaft für Internationale
+Zusammenarbeit (GIZ), UNEP and others.  DOI: 10.13140/RG.2.1.3386.9206 .
+Available from the ABS Initiative at: http://tinyurl.com/jcp5pfg
+
+Oldham P, Hall S and Barnes C (2013) Biodiversity in the Patent System: Mozambique. A
+country study of genetic resources and traditional knowledge in the patent
+system of relevance to Mozambique. Deutsche Gesellschaft für Internationale
+Zusammenarbeit (GIZ), UNEP and others. DOI: 10.13140/RG.2.1.4648.4885. Available
+from the ABS Initiative at: http://tinyurl.com/hcdgxsv
+
+Oldham P, Hall S and Barnes C (2013) Biodiversity in the Patent System: Senegal. A
+country study of genetic resources and traditional knowledge in the patent
+system of relevance to Senegal. Deutsche Gesellschaft für Internationale
+Zusammenarbeit (GIZ), UNEP and others. DOI: 10.13140/RG.2.1.2551.3362. Available
+from the ABS Initiative at: http://tinyurl.com/hzx98o9
+
+Oldham P, Hall S and Barnes C (2013) Biodiversity in the Patent System: South Africa. A
+country study of genetic resources and traditional knowledge in the patent
+system of relevance to South Africa. Deutsche Gesellschaft für Internationale
+Zusammenarbeit (GIZ), UNEP and others.  DOI: 10.13140/RG.2.1.5172.7762.
+Available from the ABS Initiative at: http://tinyurl.com/gtvaa3z
+
+Oldham P, Hall S and Barnes C (2013) Biodiversity in the Patent System: Namibia. A
+country study of genetic resources and traditional knowledge in the patent
+system of relevance to Namibia. Deutsche Gesellschaft für Internationale
+Zusammenarbeit (GIZ), UNEP and others. DOI: 10.13140/RG.2.1.4795.9445 Available
+from the ABS Initiative at: http://tinyurl.com/j8vkzc9

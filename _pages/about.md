@@ -1,6 +1,13 @@
---- permalink: /about/ title: "About One World Analytics" excerpt: "One World
-Analytics is not an everyday analytics company." defaults: type: pages layout:
-single ---
+--- 
+layout: single 
+permalink: /about/ 
+title: "About One World Analytics" 
+excerpt: "One World Analytics is not an everyday analytics company." 
+defaults: 
+header:
+  image: synthetic_biology_distribution.jpg
+  caption: "Research organisations publishing on synthetic biology in 2010: [**PLOS ONE**](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0034368)"
+---
 
 One World Analytics was founded in 2013 as a company that uses innovative
 approaches to the analysis of global social and environmental issues. We use a
@@ -13,7 +20,7 @@ conservation of the environment. This commitment gets us out of the bed in the
 morning and is the animating principle behind what we do.
 
 Most of the work we do is intended to inform policy decision-making. We mainly
-focus on research that informs;
+focus on research that informs:
 
 - [The United Nations Convention on Biological Diversity](https://www.cbd.int/) 
 - The Nagoya Protocol on Access to Genetic Resources and Fair and Equitable
@@ -33,7 +40,7 @@ the Law of the Sea. If that sounds complicated it is because it is)
   - We regularly present research (in collaboration with the
 United Nations University Institute for Advanced Study of Sustainability or
 UNU-IAS) at the WIPO Intergovernmental Committee on Intellectual Property and
-Genetic Resources, Traditional Knowledge and Folklore (the IGC)
+Genetic Resources, Traditional Knowledge and Folklore (the IGC).
   
   
  

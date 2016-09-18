@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: "This is our contact page"
 permalink: /contact/
 excerpt: "One World Analytics Contacts"

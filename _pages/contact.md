@@ -4,7 +4,7 @@ title: "This is our contact page"
 permalink: /contact/
 excerpt: "One World Analytics Contacts"
 header:
-  image: unsplash-gallery-image-2-th.jpg
+  image: bahamas_etm_lrg.jpg
 ---
 
 Contact details go here

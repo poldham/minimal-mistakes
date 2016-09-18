@@ -11,4 +11,4 @@ header:
 
 **Welcome to One World Analytics**
 
-We specialise in the analysis of social and environmental issues to inform policy decision-making. 
+One World Analytics provides cutting-edge analysis of global environmental, economic and social issues. We specialise in large scale analytics, network analysis, visualization and data mining to improve understanding of complex emerging issues and enable informed decision-making.

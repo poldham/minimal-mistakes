@@ -6,7 +6,7 @@ excerpt: "One World Analytics is not an everyday analytics company."
 defaults: 
 header:
   image: synthetic_biology_distribution.jpg
-  caption: "Research organisations publishing on synthetic biology in 2010: [**PLOS ONE**](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0034368)"
+  caption: "Research organisations publishing on synthetic biology in 2010: [**Paul Oldham, Stephen Hall and Geoff Burton in PLOS ONE**](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0034368)"
 ---
 
 One World Analytics was founded in 2013 as a company that uses innovative

@@ -4,7 +4,7 @@ title: "This is our contact page"
 excerpt: "One World Analytics Contacts"
 layout: single
 image:
-    feature: unsplash-gallery-image-2-th.jpg
+  feature: unsplash-gallery-image-2-th.jpg
 ---
 
 Contact details go here

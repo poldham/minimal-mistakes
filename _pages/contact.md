@@ -13,7 +13,7 @@ Andrefouet, University of South Florida
 jpg)"
 ---
 
-As you might expect we mainly work in cyberspace. For general enquiries please use 
+As you might expect we mainly work in cyberspace. For general enquiries please use: 
 
 info at oneworldanalytics.com.
 

@@ -5,7 +5,7 @@ permalink: /
 excerpt: "The One World Analytics Homepage"
 tags: [patent analytics, bibliometrics, scientometrics, biodiversity, nagoya protocol]
 header:
-  image: unsplash-gallery-image-2-th.jpg
+  image: synthetic_biology_distribution.jpg
 ---  
 
-This is the splash page.
+This is the beginning of the new One World Analytics web page.

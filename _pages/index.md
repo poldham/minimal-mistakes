@@ -8,6 +8,6 @@ header:
   image: synthetic_biology_distribution.jpg
 ---  
 
-Welcome to One World Analytics.
+**Welcome to One World Analytics.**
 
 We specialise in the analysis of social and environmental issues to inform policy decision-making. 

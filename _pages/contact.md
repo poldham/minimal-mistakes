@@ -4,7 +4,7 @@ title: "Contact One World Analytics"
 permalink: /contact/
 excerpt: "One World Analytics Contacts"
 header:
-  image: bahamas_etm_lrg.jpg
+  image: bahamas_etm_lrg_high.jpg
   caption: "Ocean Sand Bahamas. We are working with the Bahamas Environment, Science and
 Technology Commission on the ratification and implementation of the
 Nagoya Protocol. [NASA Image courtesy Serge

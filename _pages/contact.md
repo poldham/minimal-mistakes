@@ -1,10 +1,10 @@
 ---
-permalink: /contact/
+layout: page
 title: "This is our contact page"
+permalink: /contact/
 excerpt: "One World Analytics Contacts"
-layout: single
 image:
-  feature: unsplash-gallery-image-2-th.jpg
+  feature: unsplash-gallery-image-2-th.jpgßß
 ---
 
 Contact details go here

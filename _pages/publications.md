@@ -5,7 +5,7 @@ permalink: /publications/
 excerpt: "One World Analytics Publications"
 header:
   image: mesanchez_1761.jpg
-  caption: Martin Ezequiel Sanchez
+  caption: Photo - Martin Ezequiel Sanchez
 ---
 
 We have published quite a bit since we started back in 2013. Where you see a link to a
@@ -17,14 +17,12 @@ provide an attribution back to the source if you use it.
 Most One World Analytics publications can also be found on Paul Oldham's home
 page at [Researchgate](https://www.researchgate.net/profile/Paul_Oldham2) and
 some of Paul's wider work is available through [Google Scholar
-citations](https://scholar.google.co.uk/citations?user=wQvG7eoAAAAJ&hl=en). We
-will provide direct links to our key publications below. 
+citations](https://scholar.google.co.uk/citations?user=wQvG7eoAAAAJ&hl=en). You will find direct links to our key publications below. 
 
 **Upcoming**
 
-Paul Oldham has written the WIPO Manual on Open Source Patent Analytics. The
-Manual was written in Rmarkdown using RStudio and chapters were published as
-they were written. You can access the prepublication articles from the [Github
+Paul Oldham has written the [WIPO Manual on Open Source Patent Analytics]((https://wipo-analytics.github.io). The
+Manual was written in Rmarkdown using RStudio and published as an electronic book using [bookdown](https://bookdown.org). You can access the ebook from the [Github
 website](https://wipo-analytics.github.io). We expect the final version to come
 out in late 2016 or early 2017. 
 
@@ -33,7 +31,7 @@ out in late 2016 or early 2017.
 [Oldham P, Rukundo, O, Meyer, H. (2016) An Online Research Permit and Monitoring
 System to Support Implementation of the Nagoya Protocol. Electronic resource.
 Concept Paper. Available from
-http://poldham.github.io/abs_permits/](http://poldham.github.io/abs_permits/)
+http://www.abspermits.net](http://www.abspermits.net)
 
 Paul Oldham, Colin Barnes and Stephen Hall (2016) A Review of UK Patent Activity
 for Genetic Resources and associated Traditional Knowledge. UK Department for
@@ -98,7 +96,7 @@ Landscape’. PLOS One, DOI:
 
 Africa Reports
 
-In late 2013 we published a series of country studied on access to genetic
+In late 2013 we published a series of country studies on access to genetic
 resources and benefit-sharing in Africa commissioned by [The ABS
 Initiative](http://www.abs-initiative.info). Each country study follows the same
 format and reviews patent activity for the specific country involving genetic

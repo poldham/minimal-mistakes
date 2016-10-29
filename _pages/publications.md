@@ -1,16 +1,15 @@
 ---
-layout: single
 title: "Publications"
+layout: single
 permalink: /publications/
 excerpt: "One World Analytics Publications"
-defaults:
 header:
   image: mesanchez.jpg
-  caption: Photo by: Martin Ezequiel Sanchez
+  caption:
 ---
 
-We have published quite a lot since we started back in 2013. Where you see a link to a
-Tableau workbook you can head over to the [Tableau Public](http://public.tableau.com/profile/poldham) workspace.
+We have published quite a bit since we started back in 2013. Where you see a link to a
+Tableau workbook you can head over to the Tableau Public workspace.
 
 All of our published work is available free of charge and all we ask is that you
 provide an attribution back to the source if you use it. 

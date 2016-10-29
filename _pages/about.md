@@ -35,17 +35,9 @@ the Law of the Sea. If that sounds complicated it is because it is)
 - The World Intellectual Property Organization. 
   - In 2015 we prepared the WIPO Patent Landscape Report on Animal Genetic
   Resources to inform the work of the Food and Agriculture Organisation. 
-  - In 2016 Paul Oldham wrote the WIPO Manual on Open Source Patent Analytics 
-  - Paul Oldham serves as one of the WIPO trainers on patent analytics 
+  - In 2016 Paul Oldham wrote the [WIPO Manual on Open Source Patent Analytics](https://wipo-analytics.github.io/) 
+  - Paul Oldham serves as a WIPO expert for training in patent analytics 
   - We regularly present research (in collaboration with the
 United Nations University Institute for Advanced Study of Sustainability or
 UNU-IAS) at the WIPO Intergovernmental Committee on Intellectual Property and
 Genetic Resources, Traditional Knowledge and Folklore (the IGC).
-  
-  
- 
-
-
-
-
-

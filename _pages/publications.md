@@ -4,7 +4,7 @@ layout: single
 permalink: /publications/
 excerpt: "One World Analytics Publications"
 header:
-  image: mesanchez.jpg
+  image: mesanchez_1761.jpg
   caption:
 ---
 

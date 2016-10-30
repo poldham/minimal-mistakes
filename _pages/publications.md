@@ -3,8 +3,9 @@ layout: single
 title: "Our Publications"
 permalink: /publications/
 excerpt: ""
+tags: [one world analytics, publications]
 header:
-  overlay_image: sanchez-1473970367503-7d7f8d1bf998.jpg.jpg
+  image: sanchez-1473970367503-7d7f8d1bf998.jpg
   caption: "Photo: [Martin Ezequiel Sanchez](https://unsplash.com/@mzeketv)"
 ---
 

@@ -5,8 +5,8 @@ title: "About One World Analytics"
 excerpt: "One World Analytics is not an everyday analytics company." 
 defaults: 
 header:
-  image: photo-1446776811953-b23d57bd21aa.jpg
-  caption: "Photo: NASA"
+  image: photo-1413977886085-3bbbf9a7cf6e.jpg
+  caption: "Photo: [Luca Zanon](https://unsplash.com/@zanonluca)"
 ---
 
 One World Analytics was founded in 2013 as a research company that uses innovative

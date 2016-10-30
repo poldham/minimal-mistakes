@@ -5,7 +5,7 @@ permalink: /africa/
 excerpt: "Research on Access and Benefit Sharing in Africa"
 header:
   overlay_image: zebra_catherine_oldham.jpg
-  caption: "Photo credit: Catherine Oldham"
+  caption: "Photo: Catherine Oldham"
 ---
 
 Since 2013 we have worked on a number of studies for the [ABS Initiative](http://www.abs-initiative.info) focusing on access and benefit-sharing in Africa. 

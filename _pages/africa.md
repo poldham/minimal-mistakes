@@ -2,7 +2,7 @@
 layout: single
 title: "Africa Studies"
 permalink: /africa/
-excerpt: "Research on Africa"
+excerpt: "Research on Access and Benefit Sharing in Africa"
 header:
   overlay_image: zebra_catherine_oldham.jpg
   caption: "Photo credit: Catherine Oldham"

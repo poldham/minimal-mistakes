@@ -5,7 +5,7 @@ permalink: /publications/
 excerpt: "One World Analytics Publications"
 header:
   image: mesanchez_1761.jpg
-  caption: "Photo credit: Martin Ezequiel Sanchez"(https://unsplash.com/@mzeketv)
+  caption: "Photo credit: Martin Ezequiel Sanchez"
 ---
 
 We have published quite a bit since we started back in 2013. Where you see a link to a

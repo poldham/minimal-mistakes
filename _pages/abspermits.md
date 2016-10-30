@@ -5,7 +5,7 @@ permalink: /abspermits/
 excerpt: "Research Permits for Access and Benefit Sharing"
 header:
   overlay_image: whale.jpg
-  caption: "Photo: [Thomas Kelley Sanchez](https://unsplash.com/@thkelley)"
+  caption: "Photo: [Thomas Kelley](https://unsplash.com/@thkelley)"
 ---
 
 In 2015 as part of a project on national implementation of the Nagoya Protocol in the Bahamas with the Bahamas Environment, Science and Technology Commission (BEST), Paul Oldham wrote a paper outlining a national system for compliance and monitoring. In 2016 with support from the [ABS Initiative](http://www.abs-initiative.info) the paper was further developed with inputs from Olivier Rukundo (legal) and Hartmut Meyer. 

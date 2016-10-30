@@ -1,6 +1,6 @@
 ---
-title: "Publications"
 layout: single
+title: "Publications"
 permalink: /publications/
 excerpt: "One World Analytics Publications"
 header:

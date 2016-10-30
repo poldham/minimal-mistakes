@@ -1,10 +1,10 @@
 ---
 layout: single
-title: "Publications"
+title: ""
 permalink: /publications/
 excerpt: "One World Analytics Publications"
 header:
-  image: mesanchez_1761.jpg
+  overlay_image: mesanchez_1761.jpg
   caption: "Photo: [Martin Ezequiel Sanchez](https://unsplash.com/@mzeketv)"
 ---
 

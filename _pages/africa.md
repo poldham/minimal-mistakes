@@ -5,7 +5,7 @@ permalink: /africa/
 excerpt: "Research on Africa"
 header:
   overlay_image: https://unsplash.com/collections/367159/earth-and-nature?photo=bk4HoBc4k60
-  caption: "Photo credit: Martin Ezequiel Sanchez"(https://unsplash.com/@mzeketv)
+  caption: "Photo credit: Martin Ezequiel Sanchez"
 ---
 
 Since 2013 we have worked on a number of studies for the [ABS Initiative](http://www.abs-initiative.info) focusing on access and benefit-sharing in Africa. 

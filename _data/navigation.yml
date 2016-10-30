@@ -8,3 +8,10 @@ main:
 
   - title: "Contact"
     url: /contact/
+    
+  - title: "Africa Studies"
+    url: /africa/
+    
+  - title: "ABS Permits"
+    url: /abspermits/
+    

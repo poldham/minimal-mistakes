@@ -11,4 +11,4 @@ header:
 
 **Welcome to One World Analytics**
 
-We specialise in the analysis of social and environmental issues to inform policy decision-making. 
+We specialise in the analysis of social and environmental issues using text mining, statistics, geographic mapping and network visualisation. We focus on biodiversity and genetic resources, traditional knowledge and new and emerging areas of science and technology. Our aim is to make the invisible and neglected contributions of biodiversity and traditional knowledge to innovation and human welfare visible to inform policy decision-making.

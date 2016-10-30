@@ -5,7 +5,7 @@ permalink: /publications/
 excerpt: "One World Analytics Publications"
 header:
   image: mesanchez_1761.jpg
-  caption: Photo - Martin Ezequiel Sanchez
+  caption: "Photo credit: Martin Ezequiel Sanchez"(https://unsplash.com/@mzeketv)
 ---
 
 We have published quite a bit since we started back in 2013. Where you see a link to a
@@ -21,7 +21,7 @@ citations](https://scholar.google.co.uk/citations?user=wQvG7eoAAAAJ&hl=en). You 
 
 **Upcoming**
 
-Paul Oldham has written the [WIPO Manual on Open Source Patent Analytics]((https://wipo-analytics.github.io). The
+Paul Oldham has written the [WIPO Manual on Open Source Patent Analytics](https://wipo-analytics.github.io). The
 Manual was written in Rmarkdown using RStudio and published as an electronic book using [bookdown](https://bookdown.org). You can access the ebook from the [Github
 website](https://wipo-analytics.github.io). We expect the final version to come
 out in late 2016 or early 2017. 
@@ -31,7 +31,7 @@ out in late 2016 or early 2017.
 [Oldham P, Rukundo, O, Meyer, H. (2016) An Online Research Permit and Monitoring
 System to Support Implementation of the Nagoya Protocol. Electronic resource.
 Concept Paper. Available from
-http://www.abspermits.net](http://www.abspermits.net)
+[http://www.abspermits.net](http://www.abspermits.net)
 
 Paul Oldham, Colin Barnes and Stephen Hall (2016) A Review of UK Patent Activity
 for Genetic Resources and associated Traditional Knowledge. UK Department for

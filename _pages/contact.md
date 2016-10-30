@@ -7,7 +7,7 @@ header:
   image: bahamas_etm_lrg_high.jpg
   caption: "Ocean Sand Bahamas. We are working with the Bahamas Environment, Science and
 Technology Commission on the ratification and implementation of the
-Nagoya Protocol. [NASA Image courtesy Serge
+Nagoya Protocol. [Photo: NASA, by Serge
 Andrefouet, University of South Florida
 ](http://eoimages.gsfc.nasa.gov/images/imagerecords/2000/2780/bahamas_etm_lrg.
 jpg)"

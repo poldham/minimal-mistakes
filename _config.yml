@@ -11,9 +11,9 @@ title                    : "One World Analytics"
 title_separator          : "-"
 name                     : "One World Analytics"
 description              : "One World Analytics specialises in the innovative analysis of global social and environmental issues"
-url                      : "https://poldham.github.io"
-baseurl                  : "/owa"
-repository               : "poldham/owa"
+url                      : "https://oneworldanalytics.github.io"
+baseurl                  : "/oneworldanalytics.github.io"
+repository               : "oneworldanalytics/oneworldanalytics.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200

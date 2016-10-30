@@ -1,13 +1,11 @@
 ---
 layout: single
-title: "Contact One World Analytics"
+title: ""
 permalink: /contact/
-excerpt: ""
+excerpt: "Contact One World Analytics"
 header:
   overlay_image: bahamas_etm_lrg_high.jpg
-  caption: "Ocean Sand Bahamas. We are working with the Bahamas Environment, Science and
-Technology Commission on the ratification and implementation of the
-Nagoya Protocol. [Photo: NASA, by Serge
+  caption: "Ocean Sand Bahamas. [Photo: NASA, by Serge
 Andrefouet, University of South Florida
 ](http://eoimages.gsfc.nasa.gov/images/imagerecords/2000/2780/bahamas_etm_lrg.
 jpg)"

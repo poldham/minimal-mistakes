@@ -1,8 +1,8 @@
 ---
 layout: single
-title: ""
+title: "Contact Us"
 permalink: /contact/
-excerpt: "Contact One World Analytics"
+excerpt: ""
 header:
   overlay_image: bahamas_etm_lrg_high.jpg
   caption: "Ocean Sand Bahamas. [Photo: NASA, by Serge

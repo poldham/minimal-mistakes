@@ -1,6 +1,6 @@
 ---
-title: "Africa Studies"
 layout: single
+title: "Africa Studies"
 permalink: /africa/
 excerpt: "Research on Africa"
 header:

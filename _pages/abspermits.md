@@ -1,6 +1,6 @@
 ---
-title: "ABS Permits"
 layout: single
+title: "ABS Permits"
 permalink: /abspermits/
 excerpt: "Research Permits for Access and Benefit Sharing"
 header:

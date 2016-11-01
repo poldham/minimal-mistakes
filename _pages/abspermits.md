@@ -4,7 +4,7 @@ title: "ABS Permits"
 permalink: /abspermits/
 excerpt: "Research Permits for Access and Benefit Sharing"
 header:
-  image: whale.jpg
+  image: whale_low.jpg
   caption: "Photo: [Thomas Kelley](https://unsplash.com/@thkelley)"
 ---
 

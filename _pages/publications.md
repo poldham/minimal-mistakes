@@ -6,7 +6,7 @@ excerpt: ""
 tags: [one world analytics, publications]
 header:
   image: species_distribution_700h.jpg
-  caption: "The global distribution of species in patent documents: [**Paul Oldham, Stephen Hall and Oscar Forero in PLOS ONE**](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0078737)"
+  caption: "The global distribution of species in patent documents: [**Paul Oldham, Stephen Hall and Oscar Forero 2013 in PLOS ONE**](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0078737)"
 ---
 
 We have published quite a bit since we started back in 2013. Where you see a link to a

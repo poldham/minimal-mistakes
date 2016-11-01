@@ -5,7 +5,7 @@ title: "About One World Analytics"
 excerpt: "One World Analytics is not an everyday analytics company." 
 defaults: 
 header:
-  image: photo-1413977886085-3bbbf9a7cf6e.jpg
+  image: photo-1413977886085-3bbbf9a7cf6e_low.jpg
   caption: "Photo: [Luca Zanon](https://unsplash.com/@zanonluca)"
 ---
 

@@ -4,7 +4,7 @@ title: "Contact Us"
 permalink: /contact/
 excerpt: "Contact Us"
 header:
-  image: bahamas_etm_lrg_high.jpg
+  image: bahamas_etm_lrg.jpg
   caption: "Ocean Sand Bahamas. [Photo: NASA, by Serge
 Andrefouet, University of South Florida
 ](http://eoimages.gsfc.nasa.gov/images/imagerecords/2000/2780/bahamas_etm_lrg.

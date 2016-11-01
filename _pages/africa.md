@@ -4,7 +4,7 @@ title: "Africa Studies"
 permalink: /africa/
 excerpt: "Research on Access and Benefit Sharing in Africa"
 header:
-  image: zebra_catherine_oldham_low.jpg
+  overlay_image: zebra_catherine_oldham_low.jpg
   caption: "Photo: Catherine Oldham"
 ---
 

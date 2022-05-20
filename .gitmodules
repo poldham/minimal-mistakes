@@ -1,6 +1,3 @@
-[submodule "websites/analyticssite"]
-	path = websites/analyticssite
-	url = https://github.com/cwanjiru/analyticssite
 [submodule "websit/analytics"]
 	path = websit/analytics
 	url = https://github.com/poldham/owa

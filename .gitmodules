@@ -1,0 +1,3 @@
+[submodule "websites/analyticssite"]
+	path = websites/analyticssite
+	url = https://github.com/cwanjiru/analyticssite
